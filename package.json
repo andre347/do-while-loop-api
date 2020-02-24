@@ -1,0 +1,16 @@
+{
+  "name": "while-loop-blog",
+  "version": "1.0.0",
+  "description": "Example code for making paginated API calls with do while loop",
+  "main": "index.mjs",
+  "scripts": {
+    "start": "node --experimental-modules index.mjs"
+  },
+  "keywords": [],
+  "author": "Andre de Vries",
+  "type": "module",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  }
+}
