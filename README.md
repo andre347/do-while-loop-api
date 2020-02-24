@@ -4,6 +4,8 @@
 
 Code examples for the blog post about making paginated API calls in JavaScript
 
+Clone or download repo, 'npm install' and 'npm run start'
+
 [Dev.to link](https://dev.to/andre347/how-to-use-a-do-while-loop-for-api-pagination-375b)
 <br />
 [andredevries.dev link](https://andredevries.dev/posts/do-while-api-nodejs/)
